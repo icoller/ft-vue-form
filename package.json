@@ -1,5 +1,5 @@
 {
-  "name": "vform",
+  "name": "ft-vue-form",
   "version": "1.0.1",
   "author": "Coller",
   "private": false,
@@ -9,5 +9,16 @@
   "keywords": [
     "element-plus",
     "form-designer"
-  ]
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icoller/ft-vue-form.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icoller/ft-vue-form/issues"
+  }
 }
