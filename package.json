@@ -1,0 +1,13 @@
+{
+  "name": "vform",
+  "version": "1.0.1",
+  "author": "Coller",
+  "private": false,
+  "main": "dist/designer.umd.js",
+  "description": "is Online Form Designer",
+  "homepage": "https://coller.me/",
+  "keywords": [
+    "element-plus",
+    "form-designer"
+  ]
+}
